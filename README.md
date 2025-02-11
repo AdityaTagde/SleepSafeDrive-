@@ -1,6 +1,4 @@
 # 🚗 Sleepy Driver Detection App 😴
-
-![Sleepy Driver Detection](https://via.placeholder.com/800x400.png?text=Sleepy+Driver+Detection+App)  
 _A real-time AI-powered drowsiness detection system_
 
 ## 📝 Overview
@@ -31,7 +29,7 @@ pip install streamlit tensorflow opencv-python numpy
 
 1. 📥 **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/sleepy-driver-detection.git
+git clone https://github.com/AdityaTagde/SleepSafeDrive.git
 cd sleepy-driver-detection
 ```
 
@@ -81,17 +79,6 @@ pip install --upgrade tensorflow opencv-python streamlit numpy
 ✨ **Improve accuracy** with a larger dataset and better model architecture. 📊  
 ✨ **Deploy as a web application** for mobile compatibility. 📱  
 
----
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-## 👨‍💻 Author
-👤 **Your Name**  
-🔗 [GitHub Profile](https://github.com/yourusername)  
-📧 Contact: your.email@example.com
-
----
 ### 📸 Demo Screenshot (Add a real screenshot below)
 ![App Demo](https://via.placeholder.com/800x400.png?text=App+Demo)
 
