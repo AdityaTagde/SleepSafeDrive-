@@ -79,6 +79,6 @@ pip install --upgrade tensorflow opencv-python streamlit numpy
 ✨ **Improve accuracy** with a larger dataset and better model architecture. 📊  
 ✨ **Deploy as a web application** for mobile compatibility. 📱  
 
-### 📸 App Demo
+### 📸 App View
 ![App View](https://github.com/AdityaTagde/SleepSafeDrive-/blob/main/s1.png)
 
